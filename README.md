@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Mathur</h1>
-<h3 align="center">A passionate Data Scientist Student and Innovation Enthusiast with a keen interest in Augmented Reality and Decentralisation of the World</h3>
+<h3 align="center">A passionate Data Science Student and Innovation Enthusiast with a keen interest in Augmented Reality and Decentralisation of the World</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmathur254&label=Profile%20views&color=f20202&style=flat-square" alt="sahilmathur254" /> </p>
 
