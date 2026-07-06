@@ -1,25 +1,273 @@
-<h1 align="center">Hi 👋, I'm Sahil Mathur</h1>
-<h3 align="center">A passionate Data Engineer and Innovation Enthusiast with a keen interest in Augmented Reality and Automation</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilmathur254&label=Profile%20views&color=f20202&style=flat-square" alt="sahilmathur254" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/_iamsahil" target="blank"><img src="https://img.shields.io/twitter/follow/_iamsahil?logo=twitter&style=for-the-badge" alt="_iamsahil" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060B11,100:00E5FF&height=175&section=header&text=Sahil%20Mathur&fontColor=E2F1F8&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%" alt="Sahil Mathur" />
 
-- 👯 I’m looking to collaborate on **Data Science , Data Engineering and Jenkins Projects**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&height=45&lines=Data+Engineer+%C2%B7+Cloud+%26+AI+Systems;Building+secure+Azure+data+platforms;Python+%C2%B7+SQL+%C2%B7+Databricks+%C2%B7+Spark;AI+APIs+%C2%B7+Automation+%C2%B7+Observability;Augmented+Reality+%26+Innovation+Enthusiast" alt="Sahil Mathur's roles and interests" />
+</a>
 
-- 📫 How to reach me **sahil.mathur2504@gmail.com**
-- Read my Articles - [medium](https://medium.com/@sahil.mathur2504)
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_iamsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_iamsahil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil-mathur2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-mathur2504" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahil_mathur2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil_mathur2504" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/5jjMZ6yx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5jjMZ6yx" height="30" width="40" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-060B11?style=for-the-badge\&logo=github\&logoColor=00E5FF)](https://github.com/sahilmathur254)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-060B11?style=for-the-badge\&logo=linkedin\&logoColor=00E5FF)](https://www.linkedin.com/in/sahil-mathur2504/)
+[![Medium](https://img.shields.io/badge/Medium-060B11?style=for-the-badge\&logo=medium\&logoColor=00E5FF)](https://medium.com/@sahil.mathur2504)
+[![Email](https://img.shields.io/badge/Email-060B11?style=for-the-badge\&logo=gmail\&logoColor=00E5FF)](mailto:sahil.mathur2504@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br />
 
-### &#127911; **Currently Listening on Spotify**
+![Profile views](https://komarev.com/ghpvc/?username=sahilmathur254\&color=00E5FF\&style=for-the-badge\&label=SYS.VIEWS)
+
+</div>
+
+<br />
+
+---
+
+<!-- ===================== INTRO ===================== -->
+
+### `> whoami`
+
+```yaml
+name:      Sahil Mathur
+role:      Data Engineer · Cloud, AI & Automation
+company:   eMoodie — Digital Mental Health Wellbeing
+focus:     Azure data platforms · AI APIs · production pipelines
+stack:     Python · SQL · ADF · Databricks · Spark · FastAPI
+domains:   AI products · research workflows · wellbeing applications
+interests: Data Engineering · Automation · Augmented Reality
+education: MSc Data Science — Distinction
+```
+
+* I own data and cloud engineering for a digital mental health company.
+* I build secure, scalable data pipelines using **Azure Data Factory, Databricks, Spark and SQL**.
+* I develop AI applications and production APIs using **Python, FastAPI and Azure OpenAI**.
+* I create reporting and analytics tools with **Power BI, Streamlit and Python**.
+* I implement privacy, observability and reliability controls for sensitive data workloads.
+* I automate deployments and engineering workflows using **GitHub Actions, Jenkins and Azure tooling**.
+* I have a long-standing interest in **Augmented Reality, automation and emerging technology**.
+
+<br />
+
+<!-- ===================== CURRENT WORK ===================== -->
+
+### `> current-work --status`
+
+```text
+┌─ eMoodie
+│
+├── Secure Azure data foundations for AI and wellbeing products
+├── Operational, survey, research and user-data pipelines
+├── Azure OpenAI applications for mental-health marker analysis
+├── FastAPI services and cloud-based AI products
+├── Streamlit dashboards for product and research insights
+├── Azure Monitor, Application Insights and production alerting
+├── Privacy controls for sensitive mental-health data
+└── GitHub Actions and repeatable deployment automation
+```
+
+<br />
+
+<!-- ===================== COLLABORATION ===================== -->
+
+### `> collaboration --open`
+
+I am interested in collaborating on projects involving:
+
+* **Data engineering and scalable data platforms**
+* **Applied AI and machine learning**
+* **Cloud automation and DevOps**
+* **Jenkins and CI/CD engineering**
+* **Open-source developer tooling**
+
+<br />
+
+<!-- ===================== STACK ===================== -->
+
+### `> stack --load`
+
+#### `data-engineering`
+
+![Python](https://img.shields.io/badge/Python-00E5FF?style=for-the-badge\&logo=python\&logoColor=060B11)
+ 
+![SQL](https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge\&logo=databricks\&logoColor=060B11)
+ 
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-00E5FF?style=for-the-badge\&logo=apachespark\&logoColor=060B11)
+ 
+![Databricks](https://img.shields.io/badge/Databricks-00E5FF?style=for-the-badge\&logo=databricks\&logoColor=060B11)
+ 
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00E5FF?style=for-the-badge\&logo=delta\&logoColor=060B11)
+ 
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-00E5FF?style=for-the-badge\&logo=apachekafka\&logoColor=060B11)
+ 
+![Hadoop](https://img.shields.io/badge/Hadoop-00E5FF?style=for-the-badge\&logo=apachehadoop\&logoColor=060B11)
+ 
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-00E5FF?style=for-the-badge\&logo=apachehive\&logoColor=060B11)
+
+<br />
+
+#### `cloud-and-platform`
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-00E5FF?style=for-the-badge\&logo=microsoftazure\&logoColor=060B11)
+ 
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-00E5FF?style=for-the-badge\&logo=microsoftazure\&logoColor=060B11)
+ 
+![AWS](https://img.shields.io/badge/AWS-00E5FF?style=for-the-badge\&logo=amazonwebservices\&logoColor=060B11)
+ 
+![Docker](https://img.shields.io/badge/Docker-00E5FF?style=for-the-badge\&logo=docker\&logoColor=060B11)
+ 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00E5FF?style=for-the-badge\&logo=kubernetes\&logoColor=060B11)
+ 
+![Linux](https://img.shields.io/badge/Linux-00E5FF?style=for-the-badge\&logo=linux\&logoColor=060B11)
+ 
+![Bash](https://img.shields.io/badge/Bash-00E5FF?style=for-the-badge\&logo=gnubash\&logoColor=060B11)
+
+<br />
+
+#### `ai-apis-and-analytics`
+
+![FastAPI](https://img.shields.io/badge/FastAPI-00E5FF?style=for-the-badge\&logo=fastapi\&logoColor=060B11)
+ 
+![OpenAI](https://img.shields.io/badge/Azure_OpenAI-00E5FF?style=for-the-badge\&logo=openai\&logoColor=060B11)
+ 
+![Pandas](https://img.shields.io/badge/Pandas-00E5FF?style=for-the-badge\&logo=pandas\&logoColor=060B11)
+ 
+![NumPy](https://img.shields.io/badge/NumPy-00E5FF?style=for-the-badge\&logo=numpy\&logoColor=060B11)
+ 
+![PyTorch](https://img.shields.io/badge/PyTorch-00E5FF?style=for-the-badge\&logo=pytorch\&logoColor=060B11)
+ 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-00E5FF?style=for-the-badge\&logo=tensorflow\&logoColor=060B11)
+ 
+![Power BI](https://img.shields.io/badge/Power_BI-00E5FF?style=for-the-badge\&logo=powerbi\&logoColor=060B11)
+ 
+![Streamlit](https://img.shields.io/badge/Streamlit-00E5FF?style=for-the-badge\&logo=streamlit\&logoColor=060B11)
+
+<br />
+
+#### `databases`
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-00E5FF?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=060B11)
+ 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00E5FF?style=for-the-badge\&logo=postgresql\&logoColor=060B11)
+ 
+![MongoDB](https://img.shields.io/badge/MongoDB-00E5FF?style=for-the-badge\&logo=mongodb\&logoColor=060B11)
+ 
+![MySQL](https://img.shields.io/badge/MySQL-00E5FF?style=for-the-badge\&logo=mysql\&logoColor=060B11)
+ 
+![Oracle](https://img.shields.io/badge/Oracle-00E5FF?style=for-the-badge\&logo=oracle\&logoColor=060B11)
+ 
+![Redis](https://img.shields.io/badge/Redis-00E5FF?style=for-the-badge\&logo=redis\&logoColor=060B11)
+ 
+![Azure Cosmos DB](https://img.shields.io/badge/Cosmos_DB-00E5FF?style=for-the-badge\&logo=azurecosmosdb\&logoColor=060B11)
+ 
+![Cassandra](https://img.shields.io/badge/Cassandra-00E5FF?style=for-the-badge\&logo=apachecassandra\&logoColor=060B11)
+
+<br />
+
+#### `development-and-automation`
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00E5FF?style=for-the-badge\&logo=githubactions\&logoColor=060B11)
+ 
+![Jenkins](https://img.shields.io/badge/Jenkins-00E5FF?style=for-the-badge\&logo=jenkins\&logoColor=060B11)
+ 
+![Git](https://img.shields.io/badge/Git-00E5FF?style=for-the-badge\&logo=git\&logoColor=060B11)
+ 
+![YAML](https://img.shields.io/badge/YAML-00E5FF?style=for-the-badge\&logo=yaml\&logoColor=060B11)
+ 
+![Jupyter](https://img.shields.io/badge/Jupyter-00E5FF?style=for-the-badge\&logo=jupyter\&logoColor=060B11)
+ 
+![Unity](https://img.shields.io/badge/Unity-00E5FF?style=for-the-badge\&logo=unity\&logoColor=060B11)
+
+<br />
+
+<!-- ===================== WRITING ===================== -->
+
+### `> articles --read`
+
+I write about data engineering, technology, automation and the things I learn while building software.
+
+[![Read on Medium](https://img.shields.io/badge/Read_my_articles_on_Medium-00E5FF?style=for-the-badge\&logo=medium\&logoColor=060B11)](https://medium.com/@sahil.mathur2504)
+
+<br />
+
+<!-- ===================== SOCIALS ===================== -->
+
+### `> connect --with-me`
+
+<div align="center">
+
+<a href="https://github.com/sahilmathur254">
+  <img src="https://img.shields.io/badge/GitHub-sahilmathur254-060B11?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sahil-mathur2504/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sahil_Mathur-060B11?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:sahil.mathur2504@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_talk-060B11?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" />
+</a>
+
+</div>
+
+<br />
+
+<!-- ===================== STATS ===================== -->
+
+### `> stats --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-omega-sand.vercel.app/api?username=sahilmathur254&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=060B11&title_color=00E5FF&icon_color=00E5FF&text_color=E2F1F8" alt="Sahil Mathur's GitHub statistics" />
+&nbsp;&nbsp;
+
+<br />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=sahilmathur254&hide_border=true&background=060B11&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E2F1F8&currStreakNum=E2F1F8&sideNums=E2F1F8&dates=8899AA" alt="Sahil Mathur's GitHub contribution streak" />
+
+<br />
+<br />
+
+<img src="https://github-trophies.vercel.app/?username=sahilmathur254&theme=onedark&no-frame=true&column=7&margin-w=5&margin-h=5" alt="Sahil Mathur's GitHub trophies" />
+
+</div>
+
+<br />
+
+<!-- ===================== CONTRIBUTIONS ===================== -->
+
+### `> contribution --snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilmathur254/sahilmathur254/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilmathur254/sahilmathur254/output/snake-light.svg" />
+  <img alt="Sahil Mathur's contribution snake eating the commit grid" src="https://raw.githubusercontent.com/sahilmathur254/sahilmathur254/output/snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br />
+
+<!-- ===================== SPOTIFY ===================== -->
+
+### `> spotify --now-playing`
+
+<div align="center">
+
 [![Spotify](https://novatorem-alpha-lake.vercel.app/api/spotify)](https://open.spotify.com/user/sahilmathur123)
+
+</div>
+
+<br />
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:060B11&height=110&section=footer" width="100%" alt="Footer" />
+
+</div>
