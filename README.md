@@ -252,18 +252,6 @@ I write about data engineering, technology, automation and the things I learn wh
 
 <br />
 
-<!-- ===================== SPOTIFY ===================== -->
-
-### `> spotify --now-playing`
-
-<div align="center">
-
-[![Spotify](https://novatorem-alpha-lake.vercel.app/api/spotify)](https://open.spotify.com/user/sahilmathur123)
-
-</div>
-
-<br />
-
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
